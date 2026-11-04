@@ -1,4 +1,2 @@
 User-agent: *
 Allow: /
-
-Sitemap: https://nashville.lemurianstudios.com/sitemap.xml
